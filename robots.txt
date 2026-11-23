@@ -22,4 +22,4 @@ Allow: /
 User-agent: Applebot-Extended
 Allow: /
 
-Sitemap: https://soyleomunoz.github.io/makeupcolorive/sitemap.xml
+Sitemap: https://makeupcolorive.cl/sitemap.xml
